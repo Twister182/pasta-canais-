@@ -33,4 +33,4 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w633221747.m3u8
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1354159722.m3u8
 
 
-#EXTINF:-1 tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/1634580676952799349674.png" group-title="fil
+#EXTINF:-1 tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/1634580676952799349674.png" group-title="fi
